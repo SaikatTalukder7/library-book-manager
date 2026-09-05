@@ -1,12 +1,16 @@
 # Library Book Manager
 
-#### Video Demo: https://youtu.be/M93NOh_oicI?si=vCY-_CX_IzG1X8rK
+#### CS50's Introduction to Programming with Python (CS50P) Final Project
+
+#### Video Demo: https://youtu.be/M93NOh_oicI?si=vCY-_CX_IcG1X8rK
 
 #### Description:
 
+**Library Book Manager is my final project for [CS50's Introduction to Programming with Python (CS50P)](https://cs50.harvard.edu/python/).**
+
 Library Book Manager is a command-line Python application for managing a personal collection of books. The program allows users to add books, view all saved books, search for books, update their reading status, delete books, view reading statistics, and generate a library report.
 
-The project stores book information in text files instead of using a database. This makes the application simple and easy to run while demonstrating Python concepts such as functions, lists, loops, conditionals, file handling, exception handling, and data validation.
+The project stores book information in text files instead of using a database. This makes the application simple and easy to run while demonstrating Python concepts covered throughout CS50P, including functions, lists, loops, conditionals, file handling, exception handling, and data validation.
 
 ## Features
 
@@ -58,6 +62,13 @@ The program displays:
 
 Users can generate a text report containing the current library information. They can generate a report for all books or filter the report by genre.
 
+## Technologies
+
+* Python 3
+* Pytest
+* Command-Line Interface (CLI)
+* Text-file storage
+
 ## Files
 
 * `project.py` - Contains the main application and all library management features.
@@ -104,3 +115,9 @@ The test suite was run successfully with:
 ```text
 3 passed
 ```
+
+## Course
+
+This project was created as the final project for **CS50's Introduction to Programming with Python (CS50P)** by Harvard University.
+
+Course: https://cs50.harvard.edu/python/
