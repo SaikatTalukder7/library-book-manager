@@ -4,7 +4,7 @@
 
 #### Video Demo: https://youtu.be/M93NOh_oicI?si=vCY-_CX_IcG1X8rK
 
-#### Description:
+## Description
 
 **Library Book Manager is my final project for [CS50's Introduction to Programming with Python (CS50P)](https://cs50.harvard.edu/python/).**
 
@@ -115,6 +115,10 @@ The test suite was run successfully with:
 ```text
 3 passed
 ```
+
+## Certificate
+
+[View Certificate](https://drive.google.com/file/d/18Wo8OHtKjT9mjzTfDXCXk44MrgYdtnz8/view?usp=sharing)
 
 ## Course
 
