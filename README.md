@@ -125,3 +125,7 @@ The test suite was run successfully with:
 ## Course
 
 **Course:** [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
